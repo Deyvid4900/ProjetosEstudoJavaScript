@@ -1,0 +1,27 @@
+@charset "UTF-8"; 
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+ :root{
+    --cor1:#65727c;
+    --cor2:#535b61;
+    --cor3:#474b4e;
+    --cor4:#45484a;
+    --cor5:#3e4144;
+
+ }
+header{
+    height: 600px;
+    background-color: var(--cor1);
+    background-position: 100%;
+}
+.acoplamento{
+    height: 100%;
+    display: flex;
+   
+}
